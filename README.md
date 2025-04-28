@@ -65,7 +65,9 @@ A simple **Tkinter GUI application** is provided to interactively generate and s
 | MNIST  | Digit `3` | Handwritten '3' image |
 | CIFAR-10 | Class `cat` | Cat-like object image |
 
-*(Insert output images here if needed)*
+*![generated_image_20250428-081153](https://github.com/user-attachments/assets/240513ef-6477-4216-8219-a73493de9446)
+![generated_image](https://github.com/user-attachments/assets/98025fec-9940-4d1d-9b6c-5bbea1759171)*
+
 
 ---
 
