@@ -98,4 +98,4 @@ A simple **Tkinter GUI application** is provided to interactively generate and s
 
 ## 🧑‍💻 Author
 
-- Developed by **[Your Name]**
+- Developed by **KAMARAJ NADAR**
